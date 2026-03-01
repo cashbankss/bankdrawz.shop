@@ -6,7 +6,7 @@ import GithubContributions from '@/components/about/github-contributions';
 export const metadata: Metadata = {
   title: 'About | Miguel (bankdrawz)',
   description:
-    'Learn more about Miguel, a 20-year-old backend developer from the United States specializing in Next.js, TypeScript, and TailwindCSS.',
+    'Learn more about Miguel, a 22-year-old backend developer from the United States specializing in Next.js, TypeScript, and TailwindCSS.',
 };
 
 export default function AboutPage() {
@@ -34,7 +34,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-muted-foreground">
                 <p>
                   Hello! I'm Miguel, also known as{' '}
-                  <span className="text-primary font-medium">bankdrawz</span> online. I'm a 20-year-old
+                  <span className="text-primary font-medium">cashmoney</span> online. I'm a 20-year-old
                   backend developer living in the United States.
                 </p>
                 <p>
@@ -109,7 +109,7 @@ export default function AboutPage() {
             <p className="text-center text-muted-foreground mb-8">
               My real-time GitHub contributions and activity, pulled directly from the GitHub API.
             </p>
-            <GithubContributions username="bankdrawz" />
+            <GithubContributions username="cashbankss" />
           </div>
         </div>
       </section>
